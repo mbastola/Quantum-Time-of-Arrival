@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="560" viewBox="0 0 860 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="430" y="28" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Fig. 3.10: random-detector tbar by n</text>
+<line x1="82" y1="488" x2="830" y2="488" stroke="#222" stroke-width="1.5"/>
+<line x1="82" y1="48" x2="82" y2="488" stroke="#222" stroke-width="1.5"/>
+<line x1="82.000" y1="488" x2="82.000" y2="494" stroke="#222"/>
+<text x="82.000" y="512" text-anchor="middle" font-family="Arial" font-size="12">1.2000</text>
+<line x1="76" y1="488.000" x2="82" y2="488.000" stroke="#222"/>
+<line x1="82" y1="488.000" x2="830" y2="488.000" stroke="#e8e8e8"/>
+<text x="72" y="492.000" text-anchor="end" font-family="Arial" font-size="12">-0.0197</text>
+<line x1="231.600" y1="488" x2="231.600" y2="494" stroke="#222"/>
+<text x="231.600" y="512" text-anchor="middle" font-family="Arial" font-size="12">21.7200</text>
+<line x1="76" y1="400.000" x2="82" y2="400.000" stroke="#222"/>
+<line x1="82" y1="400.000" x2="830" y2="400.000" stroke="#e8e8e8"/>
+<text x="72" y="404.000" text-anchor="end" font-family="Arial" font-size="12">0.0128</text>
+<line x1="381.200" y1="488" x2="381.200" y2="494" stroke="#222"/>
+<text x="381.200" y="512" text-anchor="middle" font-family="Arial" font-size="12">42.2400</text>
+<line x1="76" y1="312.000" x2="82" y2="312.000" stroke="#222"/>
+<line x1="82" y1="312.000" x2="830" y2="312.000" stroke="#e8e8e8"/>
+<text x="72" y="316.000" text-anchor="end" font-family="Arial" font-size="12">0.0454</text>
+<line x1="530.800" y1="488" x2="530.800" y2="494" stroke="#222"/>
+<text x="530.800" y="512" text-anchor="middle" font-family="Arial" font-size="12">62.7600</text>
+<line x1="76" y1="224.000" x2="82" y2="224.000" stroke="#222"/>
+<line x1="82" y1="224.000" x2="830" y2="224.000" stroke="#e8e8e8"/>
+<text x="72" y="228.000" text-anchor="end" font-family="Arial" font-size="12">0.0779</text>
+<line x1="680.400" y1="488" x2="680.400" y2="494" stroke="#222"/>
+<text x="680.400" y="512" text-anchor="middle" font-family="Arial" font-size="12">83.2800</text>
+<line x1="76" y1="136.000" x2="82" y2="136.000" stroke="#222"/>
+<line x1="82" y1="136.000" x2="830" y2="136.000" stroke="#e8e8e8"/>
+<text x="72" y="140.000" text-anchor="end" font-family="Arial" font-size="12">0.1104</text>
+<line x1="830.000" y1="488" x2="830.000" y2="494" stroke="#222"/>
+<text x="830.000" y="512" text-anchor="middle" font-family="Arial" font-size="12">103.8000</text>
+<line x1="76" y1="48.000" x2="82" y2="48.000" stroke="#222"/>
+<line x1="82" y1="48.000" x2="830" y2="48.000" stroke="#e8e8e8"/>
+<text x="72" y="52.000" text-anchor="end" font-family="Arial" font-size="12">0.1429</text>
+<text x="430" y="542" text-anchor="middle" font-family="Arial" font-size="15">n</text>
+<text transform="translate(24 280) rotate(-90)" text-anchor="middle" font-family="Arial" font-size="15">tbar</text>
+<polyline fill="none" stroke="#c43c39" stroke-width="2.2" points="109.704,165.720 146.156,163.947 182.608,160.662 219.060,160.368 255.513,159.738 291.965,159.385 328.417,158.969 364.869,158.589 401.322,158.183 437.774,158.122 474.226,157.761 510.678,157.338 547.131,165.109 583.583,171.139 620.035,177.003 656.487,180.173 692.940,181.949 729.392,184.471 765.844,184.221 802.296,186.071 "/>
+<polyline fill="none" stroke="#2a9d55" stroke-width="2.2" points="109.704,78.345 146.156,173.883 182.608,224.798 219.060,268.958 255.513,307.773 291.965,337.925 328.417,368.691 364.869,385.513 401.322,401.554 437.774,412.017 474.226,421.326 510.678,431.064 547.131,435.351 583.583,440.461 620.035,445.207 656.487,448.008 692.940,451.079 729.392,452.956 765.844,455.690 802.296,457.655 "/>
+<polyline fill="none" stroke="#333333" stroke-width="2.2" points="109.704,164.178 146.156,164.178 182.608,164.178 219.060,164.178 255.513,164.178 291.965,164.178 328.417,164.178 364.869,164.178 401.322,164.178 437.774,164.178 474.226,164.178 510.678,164.178 547.131,164.178 583.583,164.178 620.035,164.178 656.487,164.178 692.940,164.178 729.392,164.178 765.844,164.178 802.296,164.178 "/>
+<line x1="645" y1="62" x2="673" y2="62" stroke="#c43c39" stroke-width="2.5"/>
+<text x="681" y="66" font-family="Arial" font-size="12">delta1=0.05</text>
+<line x1="645" y1="80" x2="673" y2="80" stroke="#2a9d55" stroke-width="2.5"/>
+<text x="681" y="84" font-family="Arial" font-size="12">delta1=0.5</text>
+<line x1="645" y1="98" x2="673" y2="98" stroke="#333333" stroke-width="2.5"/>
+<text x="681" y="102" font-family="Arial" font-size="12">classical t=0.1</text>
+</svg>
