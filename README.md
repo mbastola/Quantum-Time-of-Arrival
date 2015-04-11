@@ -1,7 +1,7 @@
 # Quantum Time of Arrival
 
 Undergraduate thesis and notebook calculations in C++11 & Mathematica. Plots are written as CSV plus simple SVG, so no Mathematica,
-gnuplot, or any C++ plotting library is required.
+gnuplot, or any C++ plotting library is required. The calculations were developed in Mathematica for the original thesis and later reimplemented in C++ for standalone reproduction, verification, and performance benefits.
 
 ## Thesis Summary
 
